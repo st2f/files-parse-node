@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "php-parser": "^3.2.5",
+    "yargs": "^18.0.0"
+  }
+}
